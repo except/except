@@ -1,3 +1,3 @@
 ### Hello, I'm Hasan!
 
-contact me @ <b>hasan@afraidlabs.com</b> 
+contact me @ <b>javascript:atob("aGFzYW5AYWZyYWlkbGFicy5jb20=")</b> 
